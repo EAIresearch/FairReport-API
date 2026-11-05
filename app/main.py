@@ -19,6 +19,8 @@ origins = [
     "http://127.0.0.1:5173",
     "http://localhost:8080",
     "http://127.0.0.1:8080",
+    "https://fairreport-cf87d.web.app",
+    "https://fairreport-cf87d.firebaseapp.com",
 ]
 
 # Permite requisições das origens listadas, com credenciais,
